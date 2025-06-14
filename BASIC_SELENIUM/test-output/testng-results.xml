@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-28T15:22:35 IST" name="Default suite" finished-at="2025-02-28T15:22:35 IST" duration-ms="82">
+    <groups>
+    </groups>
+    <test started-at="2025-02-28T15:22:35 IST" name="Default test" finished-at="2025-02-28T15:22:35 IST" duration-ms="82">
+      <class name="testng.script6">
+        <test-method signature="deleteAccount()[pri:0, instance:testng.script6@74751b3]" started-at="2025-02-28T15:22:35 IST" name="deleteAccount" finished-at="2025-02-28T15:22:35 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+      </class> <!-- testng.script6 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
